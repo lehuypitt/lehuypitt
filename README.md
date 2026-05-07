@@ -1,16 +1,22 @@
-## Hi there 👋
+# Huy Le
 
-<!--
-**lehuypitt/lehuypitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in Statistics at the University of Pittsburgh, expected August 2026. My work focuses on Bayesian modeling, empirical Bayes, high-dimensional inference, spatial dependence, simulation studies, and scalable statistical computation.
 
-Here are some ideas to get you started:
+I am interested in quantitative research, statistical modeling, machine learning, time series, optimization, and applied data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Programming: Python, R, SQL, MATLAB, Git, Bash/Shell
+- Methods: Bayesian inference, empirical Bayes, probability, stochastic processes, time series, optimization, Gaussian processes, simulation studies, model validation, machine learning
+
+## Selected Work
+
+- Bayesian spatiotemporal modeling for longitudinal high-dimensional data
+- Spatial empirical Bayes modeling for heterogeneous correlated data
+- Spatial risk forecasting and route optimization
+
+## Links
+
+- [Resume](resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/huyle1625/)
+- [Personal Website](https://lehuypitt.github.io)
